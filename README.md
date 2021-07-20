@@ -1,8 +1,7 @@
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
           <article class="markdown-body entry-content container-lg" itemprop="text"><h3><a id="user-content-hi-there-im-austin-" class="anchor" aria-hidden="true" href="#hi-there-im-austin-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there I'm Ahmet <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 <p>I'm an entry-level Software Developer who has done extensive work with Java and C# over the last 3 years.</p>
-<p>The main projects that I've been working on are <a href="https://kirbot.mrkirby153.com" rel="nofollow">KirBot</a>, a modular and highly configurable Discord moderation bot and <a href="https://giveaways.mrkirby153.com" rel="nofollow">Giveaways</a>, a battle tested giveaway discord bot capable of handling giveaways with hundreds of thousands of entrants.</p>
-<p>Additionally, I've worked on some other small projects, such as <a href="https://github.com/mrkirby153/bug-free-spork">bug-free-spork</a>, an Eloquent inspired ORM for Java and Kotlin</p>
+<p>Additionally, I've worked on some other small projects Java and Kotlin</p>
 <hr>
 <table>
   <tbody><tr>

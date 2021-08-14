@@ -2,7 +2,7 @@
     <span class="pl-s"><span class="pl-pds">"</span>name<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Ахмет Касим Акар<span class="pl-pds">"</span></span>,
     <span class="pl-s"><span class="pl-pds">"</span>birth<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>09.2005<span class="pl-pds">"</span></span>,
     <span class="pl-s"><span class="pl-pds">"</span>location<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>München / Deutschland<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>position<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Software Developer(?)<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>position<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Software Developer(!)<span class="pl-pds">"</span></span>,
     <span class="pl-s"><span class="pl-pds">"</span>about<span class="pl-pds">"</span></span>: [
         <span class="pl-s"><span class="pl-pds">"</span>-<span class="pl-pds">"</span></span>,
     ],
